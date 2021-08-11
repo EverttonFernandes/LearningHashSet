@@ -1,0 +1,4 @@
+Application/Program.java
+ Application.Program
+Entities/LogEntry.java
+ Entities.LogEntry
